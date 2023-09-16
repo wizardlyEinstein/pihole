@@ -1,0 +1,7 @@
+namespace: pihole 
+
+resources:
+- main.yaml 
+
+generators:
+- secrets.yaml
